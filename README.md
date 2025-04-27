@@ -1,6 +1,6 @@
 # Telephone Number Validator
 
-**GitHub Page**: 
+**GitHub Page**: https://haucheng13.github.io/TelephoneValidator/
 
 Telephone number Validator (US phone numbers only).. maybe will add more features in the future
 
